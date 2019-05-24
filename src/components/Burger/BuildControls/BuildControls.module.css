@@ -11,6 +11,13 @@
     padding: 10px 0;
 }
 
+.BuildControls p {
+    padding: 0px 10px 0px 10px;
+    background-color: #c35e22;
+    font-size: 1.1em;
+    color: black;
+}
+
 .OrderButton {
     background-color: #DAD735;
     outline: none;
